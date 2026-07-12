@@ -2,7 +2,7 @@
   <img src="./assets/GithubBanner.png" alt="GitHub Banner" width="100%">
 </p>
 
-<h1 align="center">Hi, I'm Jorge Marinez Diaz 👋</h1>
+<h1 align="center">orge Marinez Diaz</h1>
 
 <p align="center">
 Software Engineer • Scientific Computing • AI • Bioinformatics
