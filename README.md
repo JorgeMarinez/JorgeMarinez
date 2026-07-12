@@ -92,8 +92,8 @@ Git • GitHub • Linux • VS Code
 
 ## Connect With Me
 
-🌐 Portfolio: https://YOUR_PORTFOLIO
+🌐 Portfolio: https://jorgemarinez.github.io/
 
-💼 LinkedIn: https://linkedin.com/in/YOUR_LINKEDIN
+💼 LinkedIn: https://linkedin.com/in/jorgemarinez
 
-📫 Email: YOUR_EMAIL
+📫 Email: jorgemarinez831@gmail.com
